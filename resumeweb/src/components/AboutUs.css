@@ -1,0 +1,53 @@
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style header and navigation */
+
+/* Style main content */
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+#about, #team {
+    margin-bottom: 40px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+ul li img {
+    margin-left: -50px;
+    max-width:200px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+/* Style footer */
+.aboutfooter p{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+.bg2img{
+    /* left: 100px; */
+    height: 500px;
+    display: flex;
+    margin-left: 1000px;
+}

@@ -1,0 +1,55 @@
+.section1{
+    /* background-color: rgb(3, 3, 33); */
+    height: 722px;
+    background-image: url("ContactImage.png");
+    background-size: 500px 500px;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position: bottom;
+}
+
+body {
+    
+    background-color: #cccccc;
+   }
+
+.name_control{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    width: 500px;
+    height: 36px;
+    border-radius: 7px;
+    border-color:rgb(214, 210, 210);
+}
+.contact_Name{
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+.contact_email{
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+.contact_subject{
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+.contact_textarea{
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+.contact_texttitle{
+    position: relative;
+    text-align: center;
+    top: 10px;
+    left: 20px; 
+}
+.contact_textarea{
+    border-radius: 7px;
+    border-color: rgb(214, 210, 210);
+    width: 500px;
+}
